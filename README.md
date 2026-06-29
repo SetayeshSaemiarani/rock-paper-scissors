@@ -71,21 +71,21 @@ Ties     : 1
 ---
 
 ## 🧠 What I Learned
-How to break a program into reusable functions
-How to validate user input properly
-How to use loops for continuous gameplay
-How to use Python’s random module
-How to manage game state (score tracking)
-How to write cleaner and more structured code
+- How to break a program into reusable functions
+- How to validate user input properly
+- How to use loops for continuous gameplay
+- How to use Python’s random module
+- How to manage game state (score tracking)
+- How to write cleaner and more structured code
 
 ---
 
 ## 🚀 Future Improvements
-Add difficulty levels (easy / hard AI)
-Create a GUI version using Tkinter or Pygame
-Save scores to a file for persistence
-Add multiplayer mode (player vs player)
-Improve UI/UX with better formatting or colors
+- Add difficulty levels (easy / hard AI)
+- Create a GUI version using Tkinter or Pygame
+- Save scores to a file for persistence
+- Add multiplayer mode (player vs player)
+- Improve UI/UX with better formatting or colors
 
 ---
 
