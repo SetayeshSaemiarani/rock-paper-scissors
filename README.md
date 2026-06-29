@@ -1,7 +1,6 @@
 # Rock-Paper-Scissors Game
 
 A clean and interactive console-based Rock-Paper-Scissors game built with Python.
-
 The project is designed with modular functions, input validation, and score tracking to provide a smooth user experience.
 
 ---
@@ -32,6 +31,7 @@ You can continue playing or exit anytime.
 ---
 
 ## 🖥️ Demo
+```
 Welcome to Rock-Paper-Scissors!
 
 --- Choose your weapon ---
@@ -67,7 +67,7 @@ Computer : 0
 Ties     : 1
 ===========================
 👋 Thanks for playing! Goodbye.
-
+```
 ---
 
 ## 🧠 What I Learned
