@@ -15,19 +15,19 @@ python rock_paper_scissor_game.py
 ---
 
 ## How to Play
-```
-Choose a number:
+
+- Choose a number:
 1 = Rock
 2 = Paper
 3 = Scissors
-The computer randomly selects its move.
-The winner is determined using the classic rules:
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
-The score updates after each round.
-You can continue playing or exit anytime.
-```
+- The computer randomly selects its move.
+- The winner is determined using the classic rules:
+      Rock beats Scissors
+      Scissors beats Paper
+      Paper beats Rock
+- The score updates after each round.
+- You can continue playing or exit anytime.
+
 ---
 
 ## 🖥️ Demo
