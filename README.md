@@ -22,9 +22,9 @@ python rock_paper_scissor_game.py
 3 = Scissors
 - The computer randomly selects its move.
 - The winner is determined using the classic rules:
-      Rock beats Scissors
-      Scissors beats Paper
-      Paper beats Rock
+      -- Rock beats Scissors
+      -- Scissors beats Paper
+      -- Paper beats Rock
 - The score updates after each round.
 - You can continue playing or exit anytime.
 
