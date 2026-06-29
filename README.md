@@ -15,7 +15,7 @@ python rock_paper_scissor_game.py
 ---
 
 ## How to Play
-
+```
 Choose a number:
 1 = Rock
 2 = Paper
@@ -27,7 +27,7 @@ Scissors beats Paper
 Paper beats Rock
 The score updates after each round.
 You can continue playing or exit anytime.
-
+```
 ---
 
 ## 🖥️ Demo
